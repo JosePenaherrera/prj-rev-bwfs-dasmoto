@@ -1,0 +1,41 @@
+/* Base Styles -------------------- */
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+}
+
+/* Main Styles --------------------- */
+
+.main-header {
+    background-image: url('../images/pattern.jpeg');
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
